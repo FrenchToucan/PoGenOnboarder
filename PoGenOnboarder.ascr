@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scriptfile>
+    <settings program="actiona" version="3.10.2" scriptVersion="1.1.0" os="Windows"/>
+    <actions>
+        <action name="ActionFindImage" version="1.1.0"/>
+        <action name="ActionClick" version="1.0.0"/>
+        <action name="ActionMoveCursor" version="1.0.0"/>
+        <action name="ActionLoop" version="1.0.0"/>
+    </actions>
+    <parameters/>
+    <resources>
+        <resource id="PGOverlayIcon" type="2">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</resource>
+        <resource id="PokeGenieDataIcon" type="2">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</resource>
+    </resources>
+    <script pauseBefore="0" pauseAfter="0">
+        <action name="ActionFindImage">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="0" line=""/>
+            <parameter name="confidence">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="confidenceMinimum">
+                <subParameter name="value" code="0">70</subParameter>
+            </parameter>
+            <parameter name="downPyramidCount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="ifFound">
+                <subParameter name="action" code="0">do_nothing</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="ifNotFound">
+                <subParameter name="action" code="0">wait</subParameter>
+                <subParameter name="line" code="0"></subParameter>
+            </parameter>
+            <parameter name="imageToFind">
+                <subParameter name="value" code="0">$PGOverlayIcon</subParameter>
+            </parameter>
+            <parameter name="imageToSearchIn">
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="maximumMatches">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="method">
+                <subParameter name="value" code="0">correlationcoefficient</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="value" code="0">PGOverlayIcon</subParameter>
+            </parameter>
+            <parameter name="searchDelay">
+                <subParameter name="value" code="0">100</subParameter>
+            </parameter>
+            <parameter name="searchExpansion">
+                <subParameter name="value" code="0">15</subParameter>
+            </parameter>
+            <parameter name="source">
+                <subParameter name="value" code="0">window</subParameter>
+            </parameter>
+            <parameter name="windowName">
+                <subParameter name="value" code="0">Pixel 7</subParameter>
+            </parameter>
+            <parameter name="windowRelativePosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" pauseAfter="1000">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="0" line=""/>
+            <exception id="33" action="0" line=""/>
+            <parameter name="action">
+                <subParameter name="value" code="0">pressRelease</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="1">PGOverlayIcon</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" pauseAfter="500">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="0" line=""/>
+            <exception id="33" action="0" line=""/>
+            <parameter name="action">
+                <subParameter name="value" code="0">press</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">1</subParameter>
+                <subParameter name="value" code="0">88.4896:53.9815</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionMoveCursor">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <parameter name="position">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+        </action>
+        <action name="ActionClick" pauseBefore="100">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <exception id="32" action="0" line=""/>
+            <exception id="33" action="0" line=""/>
+            <parameter name="action">
+                <subParameter name="value" code="0">release</subParameter>
+            </parameter>
+            <parameter name="amount">
+                <subParameter name="value" code="0">1</subParameter>
+            </parameter>
+            <parameter name="button">
+                <subParameter name="value" code="0">left</subParameter>
+            </parameter>
+            <parameter name="position">
+                <subParameter name="unit" code="0">1</subParameter>
+                <subParameter name="value" code="0">77.6042:54.0741</subParameter>
+            </parameter>
+            <parameter name="positionOffset">
+                <subParameter name="unit" code="0">0</subParameter>
+                <subParameter name="value" code="0"></subParameter>
+            </parameter>
+            <parameter name="restoreCursorPosition">
+                <subParameter name="value" code="0">false</subParameter>
+            </parameter>
+        </action>
+        <action name="ActionLoop" pauseAfter="400">
+            <exception id="0" action="0" line=""/>
+            <exception id="1" action="0" line=""/>
+            <exception id="2" action="1" line=""/>
+            <parameter name="count">
+                <subParameter name="value" code="0">2</subParameter>
+            </parameter>
+            <parameter name="line">
+                <subParameter name="value" code="0">002</subParameter>
+            </parameter>
+        </action>
+    </script>
+</scriptfile>
